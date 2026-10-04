@@ -2,3 +2,4 @@ streamlit
 google-genai
 twilio
 python-telegram-bot
+pillow
